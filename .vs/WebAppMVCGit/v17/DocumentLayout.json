@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\WebAppMVCGit\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D5C9D243-7E9A-4340-9B5C-6F822AFCE020}|WebAppMVCGit\\WebAppMVCGit.csproj|c:\\users\\user\\desktop\\webappmvcgit\\webappmvcgit\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C9D243-7E9A-4340-9B5C-6F822AFCE020}|WebAppMVCGit\\WebAppMVCGit.csproj|solutionrelative:webappmvcgit\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C9D243-7E9A-4340-9B5C-6F822AFCE020}|WebAppMVCGit\\WebAppMVCGit.csproj|c:\\users\\user\\desktop\\webappmvcgit\\webappmvcgit\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5C9D243-7E9A-4340-9B5C-6F822AFCE020}|WebAppMVCGit\\WebAppMVCGit.csproj|solutionrelative:webappmvcgit\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C9D243-7E9A-4340-9B5C-6F822AFCE020}|WebAppMVCGit\\WebAppMVCGit.csproj|c:\\users\\user\\desktop\\webappmvcgit\\webappmvcgit\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5C9D243-7E9A-4340-9B5C-6F822AFCE020}|WebAppMVCGit\\WebAppMVCGit.csproj|solutionrelative:webappmvcgit\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D5C9D243-7E9A-4340-9B5C-6F822AFCE020}|WebAppMVCGit\\WebAppMVCGit.csproj|c:\\users\\user\\desktop\\webappmvcgit\\webappmvcgit\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5C9D243-7E9A-4340-9B5C-6F822AFCE020}|WebAppMVCGit\\WebAppMVCGit.csproj|solutionrelative:webappmvcgit\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,11 +26,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebAppMVCGit\\WebAppMVCGit\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebAppMVCGit\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WebAppMVCGit\\WebAppMVCGit\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebAppMVCGit\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T11:17:15.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebAppMVCGit\\WebAppMVCGit\\Views\\Emp\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppMVCGit\\Views\\Emp\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WebAppMVCGit\\WebAppMVCGit\\Views\\Emp\\Index.cshtml",
+              "RelativeToolTip": "WebAppMVCGit\\Views\\Emp\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T11:16:49.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebAppMVCGit\\WebAppMVCGit\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "WebAppMVCGit\\Controllers\\EmpController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WebAppMVCGit\\WebAppMVCGit\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "WebAppMVCGit\\Controllers\\EmpController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:08:29.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Emp.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebAppMVCGit\\WebAppMVCGit\\Models\\Emp.cs",
               "RelativeDocumentMoniker": "WebAppMVCGit\\Models\\Emp.cs",
