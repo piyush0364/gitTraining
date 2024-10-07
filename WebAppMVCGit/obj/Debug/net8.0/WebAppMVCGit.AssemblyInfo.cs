@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAppMVCGit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61edb4045a825675e718463d75fc61014f8c5ae3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95090aea352b0e665775b29d0994b11a4ee141ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAppMVCGit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAppMVCGit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

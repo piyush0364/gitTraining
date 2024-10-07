@@ -223,3 +223,4 @@ C:\Users\user\Desktop\WebAppMVCGit\WebAppMVCGit\obj\Debug\net8.0\refint\WebAppMV
 C:\Users\user\Desktop\WebAppMVCGit\WebAppMVCGit\obj\Debug\net8.0\WebAppMVCGit.pdb
 C:\Users\user\Desktop\WebAppMVCGit\WebAppMVCGit\obj\Debug\net8.0\WebAppMVCGit.genruntimeconfig.cache
 C:\Users\user\Desktop\WebAppMVCGit\WebAppMVCGit\obj\Debug\net8.0\ref\WebAppMVCGit.dll
+C:\Users\user\Desktop\WebAppMVCGit\WebAppMVCGit\obj\Debug\net8.0\WebAppMVCGit.sourcelink.json
